@@ -1,5 +1,6 @@
 /*
-shaft_boring_machine.cs is intended to control a pistons based miner
+shaft_boring_machine.cs is intended to control a pistons based miner.
+I also call it Mole or Robotic Mole.
 */
 
 // PI 3.14
